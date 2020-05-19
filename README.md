@@ -16,8 +16,8 @@ Adicionei e implementei o campo enabled na tabela users, para poder controlar ca
 Se enabled = false ele não conecta. Somente se true.
 
 Usuário cadastrado, mas pode cadastrar outros. Lembre que somente o tipo super tem acesso ao crud de administração dos usuários
-login - admin@gmail.com
-senha - admin123
+- login - admin@gmail.com
+- senha - admin123
 
 ## Licença
 
