@@ -1,5 +1,9 @@
 # Login Multi
 
+## Alerta
+
+Para uso em produção é recomendado um framework, pois estes contam com equipes especializadas em segurança e que assim podem garantir mais esta parte de um site ou aplicativo.
+
 Nesta fase irei implementar uma área administrativa para gerenciamento dos usuários e roles.
 
 Para isso criarei um CRUD com acesso restrito aos usuários super.
