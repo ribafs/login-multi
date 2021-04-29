@@ -2,7 +2,11 @@
 
 ## Alerta
 
-Para uso em produção é recomendado um framework, pois estes contam com equipes especializadas em segurança e que assim podem garantir mais esta parte de um site ou aplicativo.
+Para uso em produção é recomendado um framework, pois estes contam com equipes especializadas em segurança e que assim podem garantir mais esta parte de um site ou aplicativo. Divulgo aqui por que é o melhor e xemplo que encontrei sobre login múltiplo e fiz algumas adaptações, portanto é algo didático para aprendizado.
+
+## Nesta fase
+
+Preparei em várias fases, como gosto de fazer para guardar sempre um backup e verificar a evolução.
 
 Nesta fase irei implementar uma área administrativa para gerenciamento dos usuários e roles.
 
